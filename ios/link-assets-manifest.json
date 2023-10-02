@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inclusive Sans.ttf",
+      "sha1": "08436b98dbe5d5dd9a8efc9ad71da2391f697b10"
+    },
+    {
+      "path": "assets/fonts/InclusiveSans-Regular.ttf",
+      "sha1": "d106517071bd2ff445c0781a41d7e3f7ea990e55"
+    }
+  ]
+}
